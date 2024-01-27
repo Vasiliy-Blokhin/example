@@ -1,1 +1,1 @@
-Choose your variant = 1
+Choose your variant = 2
